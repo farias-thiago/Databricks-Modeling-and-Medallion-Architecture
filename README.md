@@ -1,4 +1,4 @@
-# Data Modeling Workshop on Databricks (Free Edition)
+# Data Modeling Workshop on Databricks
 
 This repository demonstrates, end-to-end, the construction of a small Data Warehouse on Databricks using the Bronze → Silver → Gold pattern with Delta Lake, including SCD Type 2 for customers, incremental deduplication, fact/dimension tables, and analytical views.
 
