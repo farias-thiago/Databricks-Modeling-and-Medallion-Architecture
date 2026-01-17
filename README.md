@@ -1,4 +1,4 @@
-# Data Modeling Workshop on Databricks
+# Data Modeling & Medallion Architecture on Databricks
 
 ## Overview
 
